@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- نام برنامه -->
+    <string name="app_name">برنامه‌ریز و یادداشت روزانه</string>
+
+    <!-- تب‌های ناوبری -->
+    <string name="nav_today">امروز</string>
+    <string name="nav_notes">یادداشت‌ها</string>
+    <string name="nav_search">جستجو</string>
+
+    <!-- داشبورد و سلام‌ها -->
+    <string name="greeting_morning">صبح بخیر! روزت پرانرژی و سرشار از موفقیت</string>
+    <string name="greeting_afternoon">عصر بخیر! امیدوارم تا اینجا روز خوبی داشته باشی</string>
+    <string name="greeting_evening">شب بخیر! وقت مرور دستاوردهای امروز است</string>
+    <string name="today_progress_title">پیشرفت روزانه</string>
+    <string name="tasks_completed_pattern">%s از %s تسک انجام شده (%s%%)</string>
+    <string name="no_tasks_today">برای امروز تسکی تعریف نشده است. با دکمه زیر شروع کنید!</string>
+
+    <!-- دسته‌بندی تسک‌ها -->
+    <string name="section_pending">انجام نشده</string>
+    <string name="section_completed">انجام شده</string>
+
+    <!-- اولویت‌ها -->
+    <string name="priority_high">فوری و مهم</string>
+    <string name="priority_medium">متوسط</string>
+    <string name="priority_low">معمولی و پایین</string>
+    <string name="priority_label">اولویت</string>
+
+    <!-- برچسب‌ها / تگ‌ها -->
+    <string name="tag_work">کاری</string>
+    <string name="tag_personal">شخصی</string>
+    <string name="tag_idea">ایده</string>
+    <string name="tag_study">مطالعه</string>
+    <string name="tag_finance">مالی</string>
+
+    <!-- افزودن تسک -->
+    <string name="add_task_title">افزودن تسک جدید</string>
+    <string name="task_title_hint">عنوان تسک (مثال: مطالعه فصل ۳ کتاب)</string>
+    <string name="task_desc_hint">توضیحات تکمیلی (اختیاری)...</string>
+    <string name="save_task">ذخیره تسک</string>
+    <string name="cancel">انصراف</string>
+    <string name="delete">حذف</string>
+    <string name="task_due_time">زمان تحویل</string>
+    <string name="select_category">انتخاب دسته‌بندی</string>
+
+    <!-- بخش یادداشت‌ها -->
+    <string name="notes_title">یادداشت‌ها و ایده‌ها</string>
+    <string name="empty_notes">هنوز یادداشتی ننوشته‌اید. اولین ایده خود را ثبت کنید!</string>
+    <string name="note_title_hint">عنوان یادداشت...</string>
+    <string name="note_content_hint">یادداشت خود را اینجا بنویسید...</string>
+    <string name="pin_note">سنجاق کردن به بالا</string>
+    <string name="unpin_note">برداشتن سنجاق</string>
+    <string name="pick_color">انتخاب رنگ کارت</string>
+    <string name="note_saved">یادداشت با موفقیت ذخیره شد</string>
+    <string name="note_deleted">یادداشت حذف شد</string>
+
+    <!-- جستجو و فیلترها -->
+    <string name="search_hint">جستجو در تسک‌ها و یادداشت‌ها...</string>
+    <string name="filter_all">همه</string>
+    <string name="filter_pending">انجام نشده</string>
+    <string name="filter_high_priority">دارای اولویت بالا</string>
+    <string name="filter_notes">یادداشت‌ها</string>
+    <string name="no_search_results">موردی با این عبارت یافت نشد</string>
+
+    <!-- اکشن‌ها و پیام‌ها -->
+    <string name="task_deleted">تسک حذف شد</string>
+    <string name="undo">بازگردانی</string>
+    <string name="confirm_delete_note">آیا از حذف این یادداشت اطمینان دارید؟</string>
+    <string name="confirm">تأیید</string>
+</resources>
